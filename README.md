@@ -145,7 +145,15 @@ Detailed wiring of the sub-circuit 4:
   <summary><b>Alarm Clock</b></summary>
   <br/>
   
-A decent result was achieved using the given code. The circuit and wiring remained the same with the sub-circut 4 but some features added to make a bit more functioning alarm clock:
+A decent result was achieved using the given code. The circuit and wiring remained the same with the sub-circut 4.
+
+alarm clock's final wiring:
+
+<img width="462" height="260" alt="IMG20260515191515" src="https://github.com/user-attachments/assets/24f496d1-ecfd-4c7c-82e8-6a9d0a0ab90d" />
+
+
+
+Added features:
   
 •	Crescendo Alarm Tone: The standard alarm sound was replaced with a more effective waking signal. By increasing the frequency by 30 Hz at each step of the execution loop, the acoustic output scales linearly from 600 Hz to approximately 1500 Hz. This creates an escalating tone that might increase auditory urgency.
 
