@@ -184,9 +184,89 @@ Before these successful implementations, lots of failures occured. For example, 
 </details>
 
 
+<h2>Week 03 - Sensors & Actuators 🎛️</h2>
+
+This week’s assignment involved designing and constructing a sensor-based circuit using the Arduino platform. Initially, I expected that prior familiarity with the Arduino environment would make this task more straightforward than the previous week's project. However, the assignment introduced a new set of challenges, as both the physical circuit assembly and the programming components proved to be significantly more complex than expected.
+
+
+   <details>
+  <summary><b>Part A - Pneumatic & Electrical Circuit</b></summary>
+  <br/>
+    
+• The first task involved setting up and observing the base circuit without using any sensors. After assembling the specified base circuit, tests were conducted to verify its operation. The finalized wiring of the circuit is shown below: 
+
+wiring of the test circuit on breadboard:
+
+<img width="206" height="406" alt="IMG20260521142415" src="https://github.com/user-attachments/assets/15ae1752-0f7d-426c-8f7f-c0807d326d71" />
+
+• Following numerous failed attempts, all wiring and connections were carefully checked. After about an hour, the issue was identified within the pipe connections of the pumps. Once this was resolved, the circuit was successfully tested, initially verifying the operation through the status LEDs on the MOSFET modules, as shown below: 
+
+
+MOSFET modules test:
+https://github.com/user-attachments/assets/e2015557-06bc-4365-9087-c2fdc35a7213
+
+• Finally, a test code was launched to program the circuit for automatic inflation and deflation. The circuit in operation is shown below:
+
+
+test circuit on operation:
+https://github.com/user-attachments/assets/66493289-9b79-4eec-9102-3dd40d2faf4d
+     
+  </details>
+
+ 
+ <details>
+    <summary><b>Part B - Sensor Interaction </b></summary>
+  <br/>
+A range of sensors was available for this assignment. The motion detection sensor was selected with the aim of mimicing a dynamic, responsive safety system. In this design, the motion sensor acts as a safety trigger: when movement is detected within area, the system immediately inflates an airbag structure to create a protective, impact-absorbing barrier. The deflation process is not automated. Instead, it requires a manual button press. 
+
+selected sensor:
+
+<img width="200" height="400" alt="IMG20260521135727" src="https://github.com/user-attachments/assets/a97411d8-3e34-4020-81b9-a58f03bfb87c" />
+
+To understand the sensor better, the official website and datasheet of the brand were used. This documentation explained the basics of how it works and helped a lot to finalize the design. The hardest part was understanding why the sensor was inconsistent. Sometimes it did not detect anything even with rapid movement. This was likely due to background distractions, such as other people moving around the room or vibrations coming from the pumps.
+
+
+• The Unexpected Challenge and Finalized Operation:
+
+On the first day, the only issue was making the code run smoothly. However, upon returning to the lab the next day, the circuit completely stopped working, even though it previously functioned with basic test codes. Because of this issue, the entire circuit had to be rewired from scratch. A comparison between the original setup and the rewired version can be found below:
+
+| Original Circuit Setup | Rewired Circuit Setup |
+| :---: | :---: |
+| <img width="400" alt="IMG20260521142427" src="https://github.com/user-attachments/assets/95492169-7daa-422a-b1b8-8221da48ae8f" /> | <img width="400" alt="IMG20260522154447" src="https://github.com/user-attachments/assets/fa1ee47b-577a-4d4d-b6e9-8b77d874af46" /> |
+
+
+After many attempts, the entire circuit was finally operational. The operation video is included below:
 
 
 
+https://github.com/user-attachments/assets/c256810e-c450-4ec6-ba43-7b1465a2ab79
+
+• Final Goal vs. Final Stage
+
+Initially, the main concept was to fully inflate the airbag structure. However, because the exact limits of the component were not fully understood, it was decided not to push the system too far. Instead, the circuit was programmed to inflate the airbag a certain amount with each detected movement. While the final setup did not fully meet the initial 100% goal, this simplified version was implemented to successfully demonstrate the core concept. 
+
+Overall, this exercise was challenging and time-consuming because things could suddenly go wrong. Finding the cause of a problem took a lot of trial and error. For example, a complete circuit failure could be caused by just a single loose wire, or it could be a mistake in the code, the wiring, or the general design. Even though working with Arduino is fun, it is still a big challenge for a beginner because there is so much to learn.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ </details>
 
 
 
