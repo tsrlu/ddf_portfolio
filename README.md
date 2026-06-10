@@ -247,27 +247,66 @@ Initially, the main concept was to fully inflate the airbag structure. However, 
 
 Overall, this exercise was challenging and time-consuming because things could suddenly go wrong. Finding the cause of a problem took a lot of trial and error. For example, a complete circuit failure could be caused by just a single loose wire, or it could be a mistake in the code, the wiring, or the general design. Even though working with Arduino is fun, it is still a big challenge for a beginner because there is so much to learn.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
  </details>
 
+<h2>Week 04 - E - Textile 🪡 </h2>
+ <details>
+    <summary><b>Task</b></summary>
+  <br/>  
+  The e-textile task turned out to be surprisingly challenging. Although the exercise initially seemed to be a relatively simple and low-pressure assignment, the practical experience was quite the opposite. The process required careful attention to detail and neat production. Material selection was the first important step of the project. A medium-thin, checked fabric was chosen to make sewing easier and to support the integration of the components. Following the fabric selection, two different types of conductive threads (grey and orange ones) were tested to see which one would work best for the final circuit. Initial circuit testing was done with a grey conductive thread. However, it was later noted that the orange thread offered better conductivity. Since the task required very neat and precise handwork, the orange thread was ultimately selected for the main circuit to ensure to prevent some possible mistakes caused by the lack of tidy hand work. 
+   <br/>  
+<br/> 
+
+   
+   Used threads are shown below: <br/> 
+   
+  <img width="335" height="229" alt="materials" src="https://github.com/user-attachments/assets/11d4e3e2-dd10-4c92-a465-dd6b536d5ddb" />
+<br/>    
+  • Choosing the Shape and LEDs <br/> 
+   
+  When deciding which shape to develop, a wider but interesting form was preferred. The intention was to create a design that could function as a wearable element, such as an attachment for a jacket. After exploring different possibilities, a shark inspired design was selected. The shape was first sketched on paper, converted into a template, and then cut into two identical pieces. When selecting the LEDs, an effort was made to use variety of colors in order to make the shark pattern appear more vibrant and visually complex. The combination of different colors was intended to create a more dynamic aesthetic, resulting in a visually engaging and stylish wearable piece. <br/>
+  
+  Shark template:<br/> 
+  <img width="260" height="317" alt="shark_template" src="https://github.com/user-attachments/assets/da2a6f8b-4282-4f58-aaa2-a7af2883283b" />
+<br/> 
+
+After cutting the fabric: <br/>
+
+<img width="462" height="260" alt="cut_fabric_and_materials" src="https://github.com/user-attachments/assets/e4f23c53-c066-493c-9ba8-89f63f7276a0" /> <br/>
+
+• First Trial <br/>
+
+During the lab session, the test circuit was successfully assembled with two LEDs. After that this circuit was sewn onto the fabric with the addition of one more LED. However, the circuit did not function as expected. Since the lab session was over that time, I needed to stop working and try again another day. The first trial/failure of the circuit is shown below: <br/> 
+
+<img width="462" height="260" alt="IMG20260607173150" src="https://github.com/user-attachments/assets/d210abd6-eeca-4aeb-aeb4-13c2b6f16900" /> <br/> 
+
+• Second Trial <br/>
+
+In the nex trial day, the project was revisited at home. The remaining LEDs were sewn onto the fabric, and the circuit was tested again but it still failed. This led to the assumption that the issue might be related to insufficiently reliable connections. As a result, the entire assembly was reconstructed from scratch. The exact source of the problem could not be identified at that stage as there was no multimeter at home for testing. <br/>
+<br/> 
+The circuit was disassembled: 
+<br/> 
+<img width="388" height="260" alt="IMG20260607174044" src="https://github.com/user-attachments/assets/f2d7d502-5e43-4363-83b4-fae5a31c8c82" /><br/>
+
+The circuit was carefully sewn again from beginning to end with greater attention to detail and connection quality. Despite the additional effort, the circuit still did not function. After this unsuccessful attempt, a decision was made to attend the next open lab session in order to further investigate and troubleshoot the issue using the available equipment and support.<br/> 
+<br/> 
+Second trial: <br/> 
+
+<img width="462" height="260" alt="IMG20260607182309" src="https://github.com/user-attachments/assets/ade8d038-27fd-4369-8923-f068583f9584" /><br/>
+
+• Open Lab Day and Final Result!<br/>
+
+Based on the feedback received during the open lab session, the main issue became clear. The circuit had been sewn with connections assigned to only one side of the power supply, resulting in an incomplete circuit. Some LEDs had been connected to the positive terminal and others to the negative terminal, but the remaining terminals of the LEDs had not been connected back to the power supply. As a result, the circuit could not be completed and therefore could not function. To address this, additional conductive stitching was added to complete the circuit across the entire design shown below: <br/>
+<img width="462" height="260" alt="IMG20260609153926" src="https://github.com/user-attachments/assets/a5b5adab-8316-4c52-b907-dc87c155095b" /> <br/>
+
+Even after these modifications, the LEDs still failed to light up. However, testing with a multimeter showed that all connections were conductive and functioning correctly, indicating that the stitching itself was not the source of the problem. After that the actual issue was found. When the battery was pushed too far into its compartment, the electrical contact became unreliable. Once the battery was slightly repositioned, the circuit immediately began working as intended. The final result was highly satisfying and confirmed that the design functioned successfully. <br/>
+<br/> 
+Circuit on operation: <br/>
+<img width="462" height="260" alt="IMG20260609154856" src="https://github.com/user-attachments/assets/6608153e-794f-4f4c-9f3a-1767948d44f0" /><br/>
+
+  Overall, this was the most challenging task so far. The project involved multiple rounds of testing, with no guarantee that the circuit would work until it was fully stitched and tested. Reconstructing the circuit several times and completing the detailed hand stitching was both time consuming and demanding. Also, I needed to be as careful as possible to avoid damaging the conductive thread and fabric. Despite these challenges, the process provided valuable experience in wearable electronics.
+
+</details>
 
 
 
