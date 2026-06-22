@@ -308,26 +308,24 @@ Circuit on operation: <br/>
 
 </details>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
 </details>
+
+<h2>Week 07 - On Shape Self Study </h2>
+ <details>
+The obtained certificates are shown below: <br/>
+
+<img width="1030" height="790" alt="on_shape_certificate_01" src="https://github.com/user-attachments/assets/c2d35d45-7e5c-475f-b41d-38782f3602ff" /><br/>
+
+<img width="1030" height="790" alt="on_shape_certificate_02" src="https://github.com/user-attachments/assets/3dc3adc0-b923-46c4-8d27-ef54a6ec8129" /><br/>
+
+<img width="1020" height="790" alt="on_shape_certificate_03" src="https://github.com/user-attachments/assets/965dd3bb-5a27-4d5f-91a3-339c8f881aae" /><br/>
+</details>
+
+
+
+
+
+
+ </details>
+
 
