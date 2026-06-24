@@ -307,8 +307,97 @@ Circuit on operation: <br/>
   Overall, this was the most challenging task so far. The project involved multiple rounds of testing, with no guarantee that the circuit would work until it was fully stitched and tested. Reconstructing the circuit several times and completing the detailed hand stitching was both time consuming and demanding. Also, I needed to be as careful as possible to avoid damaging the conductive thread and fabric. Despite these challenges, the process provided valuable experience in wearable electronics.
 
 </details>
-
 </details>
+
+<h2>Week 06 - Business Card 🕴️ </h2>
+ <details>
+    <summary><b>Task</b></summary>
+  <br/> 
+
+  • Design Process <br/>
+
+  In the design process, my primary goal was to create an appealing yet minimal business card. Therefore, the layout was kept clean, including only my name, department, and email address. To establish a connection between my title and potential work areas, I decided to include a complementary figure. I found a suitable pre-drawn figure online that perfectly fit the idea. This figure was then transformed into a vector line format for engraving in Inkscape, as the plan was to engrave both the text and the figure. Additionally, a small circular hole was added to the layout so the card could also be used as a keychain. <br/>
+
+  • First Trial<br/>
+  
+  After preparing the final file, the production started with a prototype on acrylic. The process began by measuring the material thickness, which was 3.4 mm. To achieve precise results for the cutting process, several test runs were conducted using different speed settings to find the optimum cutting speed. Because the first attempt did not fully cut through the material, the cutting speed was reduced for to achieve a clean and complete cut.<br/>
+
+First cut test of the material (failed cuts):<br/>
+
+<img width="260" height="223" alt="acr_test_cut_001" src="https://github.com/user-attachments/assets/95b72b8d-218c-4025-a21c-8fde7ddd03ba" />
+
+<br/>
+
+Second cut test of the material: <br/>
+
+<img width="260" height="462" alt="acr_test_cut_02" src="https://github.com/user-attachments/assets/06d29a28-0a4f-40b3-8786-55868a1c839f" />
+<br/>
+
+  Following the cutting process, a test engraving was performed by engraving a simple rectangle. However, the result lacked sufficient clarity on the clear acrylic surface. To resolve this visibility issue, I decided to switch the material to a laminate (brushed silver gloss on a black core) with a thickness of 1.5 mm.<br/>
+
+Engraving test of the material (engraved part marked): <br/>
+
+<img width="260" height="462" alt="acr_test_all_marked" src="https://github.com/user-attachments/assets/cfb37d9f-d4d9-4376-b4d2-104fbec694fd" /><br/>
+
+
+Newly selected material: <br/>
+
+<img width="260" height="220" alt="2nd_material_silver" src="https://github.com/user-attachments/assets/22857110-323f-40ce-897f-488334eb50b2" /><br/>
+
+
+  •Second Trial<br/>
+
+  This material worked very well for the design. For the cutting process, it was printed from the back of the material, which required adjusting the file by mirroring it with respect to the y-axis (only for the cutting paths, while the engraving areas remained the same). After that, the cutting was processed using the vector setting of the printer which worked perfectly. However, the engraving process was not as successful. Even though the engraving process was run twice in an attempt to achieve more visible lines, the final text and figure lines were still not clear enough. This lack of visibility became especially noticeable when holding the card at different angles.<br/>
+
+  Second trial:<br/>
+  
+  <img width="260" height="204" alt="lines_not_adjustedd" src="https://github.com/user-attachments/assets/604e24a0-39a6-48a0-9c10-ebb518fa441f" /><br/>
+
+•Final Trial<br/>
+  
+  Therefore, I had to update the line thicknesses in the SVG file using Inkscape. I increased the weight of all the lines for both the text and the figure, making sure not to distort their readability. Afterward, the exact same printing process was repeated as the previous trial and the final result was much better. The readability improved significantly, so I decided to keep this as the final version. <br/>
+
+  Final version of the business card:<br/>
+
+  <img width="260" height="233" alt="final_versiocpo" src="https://github.com/user-attachments/assets/76e396e2-d9dd-4196-a16e-22a6a6d18f19" /><br/>
+
+  Printing:<br/>
+
+
+https://github.com/user-attachments/assets/6641c363-3be5-495f-8d20-ebb5da990f83
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  </details>
+
+
+
+
+
+
+
+
+
+
 
 <h2>Week 07 - On Shape Self Study </h2>
  <details>
