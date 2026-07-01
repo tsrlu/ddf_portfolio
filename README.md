@@ -309,6 +309,50 @@ Circuit on operation: <br/>
 </details>
 </details>
 
+
+<h2>Week 05 - CNC Miling 🕯️</h2>
+   <details>
+    <summary><b>Task</b></summary>
+    <br/> 
+    The CNC milling exercise was one of the most straightforward tasks conducted, yet it had several challenges. Initially, there was a lack of experience with software such as Inkscape. However, the provided manual was highly detailed and followed closely to bridge the technical gap. 
+	In order to easily monitor and understand the milling process, a recognizable shape was preferred for the design template. This led to the selection of a sun shape. Although the initial design was sourced from the internet, it was traced and modified within Inkscape to generate the final CNC vector path. To achieve a more visually appealing result than conventional sun drawings, the design was modified to include non uniform edges.  Following this design choice, the tutor issued a warning regarding these sharp edges, noting their susceptibility to breakage during the milling process. Therefore, in order to obtain a decent shape from the CNC machine, using sharp edges was avoided as much as possible. <br/> 
+  <br/>
+  After submitting the first design file, the following feedback was received:<br/>
+    • The outline of the drawn shape must not have a fill applied.<br/>
+    • The path forming the shape must consist of a single, closed path. In the initial design, this path incorrectly included the central hole.<br/>
+    • Clarification was requested regarding a 70 mm diameter circle drawn in the middle, specifically whether it was intended to serve as the candle pocket.<br/>
+   <br/>
+     Originally, the concept involved a gradually decreasing, multi layered candle holder to emphasize the sun shape. That’s why it included two nested circles (a 70 mm outer circle and a 35 mm inner circle for the candle). However, based on the feedback, this idea was considered unfeasible for the scope of the exercise. Consequently, the multi layered design was completely removed and the layout was simplified to a single circular pocket in the center (as 35 mm in diameter).<br/>
+  The first design of the product is shown below:<br/> 
+
+  <img width="410" height="425" alt="cnc_hardwood_first_trial" src="https://github.com/user-attachments/assets/dd677050-7ec1-4ce4-97ad-ab460923cc6a" /><br/> 
+
+  Following this step, the design was revised in accordance with the feedback and submitted for CNC milling:<br/>
+
+  <img width="405" height="421" alt="cnc_shape_final" src="https://github.com/user-attachments/assets/1650e0f0-ab2a-4f91-af26-c7721756b60f" /><br/>
+
+  Following the operation, the results were beyond my expectations. The CNC machine captured the details of the sun motif with high precision. Additionally, the contrast between the perfect circle in the center and the sharp sun edges created a nice aesthetic balance. Also, the dark hardwood beautifully complemented to the shape itself. On the other hand, there are still some issues. Although attempts had been made to avoid and smooth out sharp edges in the drawing file, some sharp profiles still remained, raising concerns regarding the structural fragility of the final product. In addition to that, certain surface defects were observed on the final product, which are inherent to the limitations of the CNC milling machine. While the machine does not sometimes produce perfectly smooth finishes, these minor imperfections might be resolved with some sandpapering.<br/>
+
+  Final product is shown below:<br/>
+  
+  <img width="652" height="652" alt="candle_holder_final_product" src="https://github.com/user-attachments/assets/0f6c40cc-8586-4f78-b416-6ac66a60096f" /><br/>
+
+  Some sharp edges were marked to show in detail below:<br/>
+
+  <img width="652" height="560" alt="candle_holder_edges_detail_marked" src="https://github.com/user-attachments/assets/09a4195e-8de4-4080-af73-e1a5b4c2ba03" />
+
+  </details>
+
+
+  
+
+
+
+  
+
+
+
+
 <h2>Week 06 - Business Card 🕴️ </h2>
  <details>
     <summary><b>Task</b></summary>
