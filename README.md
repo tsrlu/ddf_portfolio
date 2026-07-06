@@ -410,38 +410,7 @@ Newly selected material: <br/>
 
 https://github.com/user-attachments/assets/6641c363-3be5-495f-8d20-ebb5da990f83
 
-
-
-  
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   </details>
-
-
-
-
-
-
-
-
-
-
 
 <h2>Week 07 - On Shape Self Study </h2>
  <details>
@@ -460,5 +429,47 @@ The obtained certificates are shown below: <br/>
 
 
  </details>
+
+
+ <h2>Week 08 - 3D Printing 🖨️ </h2>
+As someone with somehow interested in 3D printing without prior experience, this week’s assignment was highly exciting.<br/>
+	 <details>
+  <summary><b>Task</b></summary><br/>
+•Design Stages<br/>
+		 <br/>The primary objective was to design a functional object. Although a broad list of categories was provided as a starting point, phone accessories were quickly outed of the list because I wanted to create an item suitable for everyday use. Initially, several fidget toy models were analyzed because of their ease of use in the daily life and it could be a fun challenge. However, after reviewing these models, the moving mechanism approach was discarded due to limited prior experience with Onshape. Instead in order to address a personal goal of reading more consistently, the idea of a book accessory emerged. The original plan involved a moving mechanism where the thumb rests but modeling that kind of a moving part was beyond current technical proficiency on Onshape.
+		 <br/>An example of the book holder with a moving mechanism:<br/>
+		 <br/><img width="400" height="225" alt="printables_design_example" src="https://github.com/user-attachments/assets/ee4a7017-a7ff-45da-ada7-a5d16c843f21" /><br/>
+Book page holder V3. Adapted from Printables. Retrieved from: https://www.printables.com/model/1381829-book-page-holder-v3<br/>
+		 <br/>As a result, a simpler geometry with fixed parts was chosen. The next step was adding a personal touch to the model. A dinosaur shape (personal favorite) was integrated into the design to give it a unique look. Additionally, to make it highly portable, the standard 8-10 cm length of typical book holders was reduced to a compact 6-7 cm, making it easy to fit into small bags or pockets. This way, the final product will become both portable and highly practical for easy single-handed reading.<br/>
+		 <br/>•3D Modeling<br/>
+		 <br/>The tutorials were generally helpful for Onshape but replicating some of the shapes given in them were quite challenging. Past experience with a CAD program made it easier to adapt but working with 3D models in general was still a new concept. Consequently, the tutorials supposed to take about 3-4 hours ended up consuming an entire day. This kind of time investment was unexpected. On the bright side, working on the actual model geometry after the tutorials didn't feel as difficult since the basic logic of the software had been familiarized a little bit. For the modeling of the task, the design was built from scratch instead of directly using the shapes found on internet for better self expression. This approach required a significant amount of trial and error, ultimately leading to the model being redesigned from the ground up two or three times. At the end of this process, finally a satisfactory, compact and functional model has created. <br/>
+		 <br/>The sketch and the final model are found below:<br/>
+<img width="390" height="160" alt="3d_print_sketch_final" src="https://github.com/user-attachments/assets/99edaec8-db01-4c18-8e29-9cece9cc5487" /><br/>
+
+<img width="425" height="200" alt="bookholder_model_final" src="https://github.com/user-attachments/assets/2e67a97b-adad-4259-b435-fb7cbd469d1a" /><br/>
+
+•Slicer and the Final Product<br/>
+
+Since the model's geometry wasn't very complex and didn't need any supports, the slicer settings were set up a bit randomly. After that, the printing started. The estimated print duration, material weight and filament consumption details are provided in below.<br/>
+
+<img width="425" height="300" alt="slicer_result_bookholder" src="https://github.com/user-attachments/assets/0614bc4e-e4ac-4a89-91ce-d3d4ea21f8a0" /><br/>
+
+Once the model came out of the printer, the surface turned out a bit glossier than expected, and it was really satisfying to see how precise the printer could actually be. Since the model is very small and the dinosaur shapes have a lot of tiny details, it felt unlikely that a 3D printer would be able to handle this kind of shape. Therefore, surprisingly in the end, the result was super clean and looked exactly like the 3D model. On the other hand, a few flaws caught the eye upon inspection. First, the thumb hole turned out a bit too big for myself. Making it 1-2 mm smaller could prevent the model from slipping out of the hand while holding the pages. Also, the thumb section was designed too close to the bottom edge, leaving almost no gap. This might also require extra force to hold the book and negatively affect the overall durability of the piece.<br/>
+
+Final product is shown below:<br/>
+
+<img width="600" height="250" alt="glossy_3d_print" src="https://github.com/user-attachments/assets/e86a02ec-90b5-40a4-937e-c87f495c8564" /><br/>
+
+
+In conclusion, even though the printed model is comfortable to use and the print quality is exactly as it should be, there were definitely these little areas to improve. If there was enough time and opportunity to get a couple of more prints, a perfect result could have been achieved. Still, this project has definitely sparked a real excitement for 3D printing.<br/>
+
+The book page holder in use:<br/>
+
+<img width="260" height="355" alt="bookholder" src="https://github.com/user-attachments/assets/adadcea1-0269-455d-84a3-3e24cfdb028f" />
+
+ </details>
+
+
+ 
 
 
